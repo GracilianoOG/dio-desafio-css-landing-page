@@ -1,4 +1,4 @@
-# Landing Page | Desafio DIO
+# 👨‍💻 Landing Page | Desafio DIO
 
 ## 📃 Descrição
 
@@ -9,6 +9,8 @@ Neste desafio, foi proposto desenvolver a parte do CSS de uma *Landing Page* sob
 * Fundamentos do CSS
 * Estilizações Básicas com CSS
 * Unidades de Medida
+
+O *HTML* original não foi modificado, apenas o *CSS* foi adicionado.
 
 ## 🖼️ Imagem do site
 
