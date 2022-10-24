@@ -1,22 +1,21 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Landing Page | Desafio DIO
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+## 📃 Descrição
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+Desafio da *trilha de CSS* do bootcamp **NTT DATA Diversidade em Tech** da **Digital Innovation One** (DIO).
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+Neste desafio, foi proposto desenvolver a parte do CSS de uma *Landing Page* sobre a *trilha de CSS da Dio*. Foi utilizado apenas o que foi aprendido durante a trilha de CSS, nos cursos:
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+* Fundamentos do CSS
+* Estilizações Básicas com CSS
+* Unidades de Medida
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+## 📌 Mais informações
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+Agradecimentos à **DIO** pelo conteúdo e pela a oportunidade de estar melhorando minhas habilidades cada vez mais, além de estar aprendendo bastante coisa nova e interessante!
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+## 🔗 Links
+
+* 🔍 [DIO.me](https://www.dio.me/)
+* 🔍 [FIGMA do Projeto](https://www.figma.com/file/AVCNwqCXr3CVcsuDqEjKYQ/DIO---Desafio-01---C%C3%B3pia?node-id=0%3A1)
+* 🔍 [Repositório Base - Fork](https://github.com/digitalinnovationone/trilha-css-desafio-01)
