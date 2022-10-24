@@ -10,9 +10,15 @@ Neste desafio, foi proposto desenvolver a parte do CSS de uma *Landing Page* sob
 * Estilizações Básicas com CSS
 * Unidades de Medida
 
+## 🖼️ Imagem do site
+
+Veja como o site ficou, ao vivo, [clicando aqui](https://gracilianoog.github.io/dio-desafio-css-landing-page/).
+
+![Imagem final de todo o site](./assets/images/final-screenshot.png "Imagem do site")
+
 ## 📌 Mais informações
 
-Agradecimentos à **DIO** pelo conteúdo e pela a oportunidade de estar melhorando minhas habilidades cada vez mais, além de estar aprendendo bastante coisa nova e interessante!
+Agradecimentos à **DIO** pelo conteúdo e pela a oportunidade de estar melhorando minhas habilidades cada vez mais, além de estar aprendendo bastante coisa nova e interessante! 😄
 
 ## 🔗 Links
 
