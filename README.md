@@ -10,7 +10,9 @@ Neste desafio, foi proposto desenvolver a parte do CSS de uma *Landing Page* sob
 * Estilizações Básicas com CSS
 * Unidades de Medida
 
-O *HTML* original não foi modificado, apenas o *CSS* foi adicionado.
+Não foi proposto, mas tomei a liberdade de **deixar o site responsivo**, utilizando os conceitos aprendidos até então no bootcamp, além de utilizar os conhecimentos que já possuo.
+
+O site sem modificações no HTML, simplificado e sem a responsividade está na branch *old*.
 
 ## 🖼️ Imagem do site
 
